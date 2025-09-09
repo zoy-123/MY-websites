@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <tite>My website</title>
+    </head>
+    <body>
+        <h1>Heading 1</h1>
+        <p>This is a paragraph</p>
+        <a href="https://youtu.be/1TgDcUDefKI?si=1gZWgVRk8fBi-4jR">this is a youtube link about people doing a spelling bee</a>
+        <img src="https://share.google/images/Abs4EXl758hGrKuJo" width="500" height="300">
+    </body>
+    
+</html>
